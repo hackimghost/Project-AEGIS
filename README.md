@@ -1,5 +1,5 @@
 # 🛡️ PROJECT AEGIS: Autonomous Equality & Guard Intelligence System
-![Interface AEGIS](AEGIS.jpg.png)
+![Interface AEGIS](AEGIS.jpg)
 
 
 **Status:** Em Desenvolvimento Ativo (Fase de Arquitetura Cognitiva)

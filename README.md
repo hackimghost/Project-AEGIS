@@ -1,4 +1,6 @@
 # 🛡️ PROJECT AEGIS: Autonomous Equality & Guard Intelligence System
+![Interface AEGIS](AEGIS.jpg.png)
+
 
 **Status:** Em Desenvolvimento Ativo (Fase de Arquitetura Cognitiva)
 **Foco Operacional:** Prevenção à Violência Física, OSINT contra Extremismo de Gênero e Defesa Civil.

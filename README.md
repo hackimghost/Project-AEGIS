@@ -103,3 +103,14 @@ A destruição de dados não é um processo manual — é arquitetural e auditá
          ▼
   Log criptográfico de destruição gerado
   (prova de compliance — LGPD Art. 16)
+⚠️ AVISO LEGAL E LICENCIAMENTO PROPRIETÁRIO (GHOST SECURITY SYSTEMS)
+Status de Propriedade Intelectual:
+O Projeto AEGIS — compreendendo sua arquitetura conceitual, manifesto, diagramas de fluxo de dados, lógica de bifurcação de evidências (Cofre Forense) e futuras implementações de código-fonte — constitui propriedade intelectual exclusiva da Ghost Security Systems.
+1. Restrição de Uso Governamental e Comercial:
+É terminantemente proibida a apropriação, cópia, bifurcação (fork) ou implementação da arquitetura aqui descrita por entidades governamentais (agências de segurança pública, ministérios, autarquias) ou corporações privadas com fins lucrativos ou de vigilância, sem a celebração de um contrato de licenciamento formal e expresso (Enterprise/B2G License).
+2. Proteção Contra Engenharia Reversa de Conceito:
+A utilização deste manifesto como documento base para a licitação, desenvolvimento terceirizado ou criação de ferramentas estatais concorrentes que repliquem a exata lógica de "Proteção Sem Vigilância" e "Motor Cognitivo OSINT" detalhadas neste repositório será tratada como violação de propriedade intelectual e plágio arquitetural.
+3. Doutrina Open Core (Fatiamento de Código):
+A futura liberação de módulos de borda (ex: código-fonte de aplicativos locais de visão computacional) sob licenças de código aberto será feita de forma isolada. Tal liberação não concede, sob nenhuma hipótese, direitos de uso, acesso ou modificação sobre o Motor Cognitivo (Threat Intelligence), bancos de dados em grafos ou infraestrutura de backend, os quais permanecerão estritamente fechados e proprietários.
+4. Contatos e Licenciamento:
+Entidades interessadas na integração técnica, uso governamental ou implementação corporativa do framework AEGIS devem solicitar autorização e licenciamento direto através dos canais oficiais da Ghost Security Systems.

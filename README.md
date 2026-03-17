@@ -103,6 +103,9 @@ A destruição de dados não é um processo manual — é arquitetural e auditá
          ▼
   Log criptográfico de destruição gerado
   (prova de compliance — LGPD Art. 16)
+
+
+
 ⚠️ AVISO LEGAL E LICENCIAMENTO PROPRIETÁRIO (GHOST SECURITY SYSTEMS)
 Status de Propriedade Intelectual:
 O Projeto AEGIS — compreendendo sua arquitetura conceitual, manifesto, diagramas de fluxo de dados, lógica de bifurcação de evidências (Cofre Forense) e futuras implementações de código-fonte — constitui propriedade intelectual exclusiva da Ghost Security Systems.

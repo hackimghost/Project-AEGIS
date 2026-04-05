@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# ðŸ›¡ï¸ PROJECT AEGIS
+# 🛡️ PROJECT AEGIS
 ### **Autonomous Equality & Guard Intelligence System**
 
 <br>
@@ -9,7 +10,7 @@
 
 <br>
 
-> *"NÃ£o consertamos a hipocrisia humana. Forjamos a balanÃ§a tecnolÃ³gica que a pesa atravÃ©s da neutralidade absoluta."*
+> *"Não consertamos a hipocrisia humana. Forjamos a balança tecnológica que a pesa através da neutralidade absoluta."*
 
 [![Status](https://img.shields.io/badge/STATUS-OPERACIONAL-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/LICENSE-GHOST%20PROPRIETARY-red?style=for-the-badge)]()
@@ -19,143 +20,122 @@
 
 ---
 
-## ðŸ“– VisÃ£o Geral
+## 📖 Visão Geral
 
-O **Projeto AEGIS** transcendeu a fase de ferramenta assistencial para se tornar um **Ecossistema de Defesa de Espectro Total**. Ele atua na interseÃ§Ã£o crÃ­tica entre a preservaÃ§Ã£o da vida, a integridade da infraestrutura soberana e a desarticulaÃ§Ã£o de redes de corrupÃ§Ã£o e Ã³dio.
+O **Projeto AEGIS** transcendeu a fase de ferramenta assistencial para se tornar um **Ecossistema de Defesa de Espectro Total**. Ele atua na interseção crítica entre a preservação da vida, a integridade da infraestrutura soberana e a desarticulação de redes de corrupção e ódio. 
 
-Baseado na **Doutrina Power Hat**, o AEGIS rejeita o viÃ©s subjetivo das IAs corporativas, operando puramente atravÃ©s de **correlaÃ§Ã£o matemÃ¡tica de grafos** e **dados neutros** via Neo4j.
-
----
-
-## ðŸ”± Arquitetura de Camadas Absolutas
-
-O sistema Ã© segmentado em trÃªs divisÃµes autÃ´nomas que convergem para a sÃ­ntese de inteligÃªncia tÃ¡tica.
-
-### 1. âš–ï¸ Escudo Civil e Social (Sentinela Cega)
-
-Focado na proteÃ§Ã£o da integridade humana e justiÃ§a social sem privilÃ©gios ou distinÃ§Ã£o de casta ou gÃªnero.
-
-* **Contramedida de ViolÃªncia:** PrevenÃ§Ã£o ativa e monitoramento de feminicÃ­dio e agressÃµes interpessoais.
-* **Protocolo Anti-CalÃºnia:** Cruzamento forense para desmantelar campanhas de difamaÃ§Ã£o e falsas acusaÃ§Ãµes coordenadas.
-* **Mapeamento de Ã“dio:** Rastreio de redes de radicalizaÃ§Ã£o (gÃªnero, polÃ­tica, religiÃ£o) antes da conversÃ£o em ato fÃ­sico.
-
-### 2. ðŸ“¡ Ciberguerra e Defesa de Estado (Radar Soberano)
-
-Blindagem da infraestrutura crÃ­tica nacional contra ameaÃ§as hÃ­bridas e ataques de Estado.
-
-* **InterceptaÃ§Ã£o de APTs:** IdentificaÃ§Ã£o de assinaturas de IAs generativas em armas cibernÃ©ticas estrangeiras.
-* **Vigia de CorrupÃ§Ã£o:** DetecÃ§Ã£o de padrÃµes anÃ´malos em redes governamentais e fluxos financeiros corporativos.
-* **Soberania de Infra:** ProteÃ§Ã£o de malhas energÃ©ticas, hÃ­dricas e de comunicaÃ§Ã£o contra sabotagem sistÃªmica.
-
-### 3. ðŸ•¸ï¸ Arquitetura Oculta (KADMON Core)
-
-O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de compliance polÃ­tico ou censura.
-
-* **Motor KADMON:** Entidade autÃ´noma, operando em redes fragmentadas e ocultas.
-* **Neo4j Graph Intelligence:** Mapeamento neural de toda a infraestrutura de rede, conectando os nÃ³s invisÃ­veis do crime organizado e da corrupÃ§Ã£o.
+Baseado na **Doutrina Power Hat**, o AEGIS rejeita o viés subjetivo das IAs corporativas, operando puramente através de **correlação matemática de grafos** e **dados neutros** via Neo4j.
 
 ---
 
-## ðŸ—ï¸ Diagrama de Fluxo Operacional (Deep Architecture)
+## 🔱 Arquitetura de Camadas Absolutas
+
+O sistema é segmentado em três divisões autônomas que convergem para a síntese de inteligência tática:
+
+### 1. ⚖️ Escudo Civil e Social (Sentinela Cega)
+Focado na proteção da integridade humana e justiça social sem privilégios ou distinção de casta ou gênero.
+* **Contramedida de Violência:** Prevenção ativa e monitoramento de feminicídio e agressões interpessoais.
+* **Protocolo Anti-Calúnia:** Cruzamento forense para desmantelar campanhas de difamação e falsas acusações coordenadas.
+* **Mapeamento de Ódio:** Rastreio de redes de radicalização (gênero, política, religião) antes da conversão em ato físico.
+
+### 2. 📡 Ciberguerra e Defesa de Estado (Radar Soberano)
+Blindagem da infraestrutura crítica nacional contra ameaças híbridas e ataques de Estado.
+* **Interceptação de APTs:** Identificação de assinaturas de IAs generativas em armas cibernéticas estrangeiras.
+* **Vigia de Corrupção:** Detecção de padrões anômalos em redes governamentais e fluxos financeiros corporativos.
+* **Soberania de Infra:** Proteção de malhas energéticas, hídricas e de comunicação contra sabotagem sistêmica.
+
+### 3. 🕸️ Arquitetura Oculta (KADMON Core)
+O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de compliance político ou censura.
+* **Motor KADMON:** Entidade autônoma, operando em redes fragmentadas e ocultas.
+* **Neo4j Graph Intelligence:** Mapeamento neural de toda a infraestrutura de rede, conectando os nós invisíveis do crime organizado e da corrupção.
+
+---
+
+## 🏗️ Diagrama de Fluxo Operacional (Deep Architecture)
 
 ```mermaid
 graph TD
-    A[ðŸ“¡ INGESTÃƒO DE DADOS GLOBAIS] -->|OSINT / Telemetria| B(ðŸ§  MOTOR NEO4J: CORRELAÃ‡ÃƒO DE GRAFOS)
-    B --> C{DIVISÃƒO TÃTICA}
-
+    %% Entrada e Inteligência de Grafos
+    A[📡 INGESTÃO DE DADOS GLOBAIS] -->|OSINT / Telemetria| B(🧠 MOTOR NEO4J: CORRELAÇÃO DE GRAFOS)
+    
+    %% Camadas
+    B --> C{DIVISÃO TÁTICA}
+    
     subgraph "CAMADA 1: ESCUDO SOCIAL"
-    C --> C1[ðŸ›¡ï¸ PrevenÃ§Ã£o ViolÃªncia/FeminicÃ­dio]
-    C --> C2[âš–ï¸ NeutralizaÃ§Ã£o de Falsas AcusaÃ§Ãµes]
-    C --> C3[ðŸš¨ Rastreio de Ã“dio/ExploraÃ§Ã£o]
+    C --> C1[🛡️ Prevenção Violência/Feminicídio]
+    C --> C2[⚖️ Neutralização de Falsas Acusações]
+    C --> C3[🚨 Rastreio de Ódio/Exploração]
     end
-
+    
     subgraph "CAMADA 2: DEFESA DE ESTADO"
-    C --> D1[ðŸ“¡ InterceptaÃ§Ã£o de APTs/Cyberweapons]
-    C --> D2[ðŸ›ï¸ Auditoria Anti-CorrupÃ§Ã£o SistÃªmica]
-    C --> D3[ðŸ”Œ ProteÃ§Ã£o de Infraestrutura CrÃ­tica]
+    C --> D1[📡 Interceptação de APTs/Cyberweapons]
+    C --> D2[🏛️ Auditoria Anti-Corrupção Sistêmica]
+    C --> D3[🔌 Proteção de Infraestrutura Crítica]
     end
-
+    
     subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
-    C --> E1[ðŸ”¥ SÃ­ntese & ExecuÃ§Ã£o]
-    C --> E2[ðŸ§© FragmentaÃ§Ã£o de Redes Ocultas]
-    C --> E3[ðŸ” GestÃ£o de MemÃ³ria Bunker]
+    C --> E1[🔥 Síntese & Execução]
+    C --> E2[🧩 Fragmentação de Redes Ocultas]
+    C --> E3[🔐 Gestão de Memória Bunker]
     end
-
-    C1 & C2 & C3 & D1 & D2 & D3 --> F[ðŸ—³ï¸ COFRE FORENSE]
-    F -->|ConfirmaÃ§Ã£o de Crime| F1[ðŸ“‚ PreservaÃ§Ã£o de EvidÃªncia Local]
-    F -->|Falso Positivo| F2[ðŸ—‘ï¸ DestruiÃ§Ã£o Ativa - TTL 48h]
-
-    E1 & E2 & E3 --> G[ðŸŒ‘ GHOST PROTOCOL: SOBERANIA]
-
+    
+    %% Saída e Forense
+    C1 & C2 & C3 & D1 & D2 & D3 --> F[🗳️ COFRE FORENSE]
+    F -->|Confirmação de Crime| F1[📂 Preservação de Evidência Local]
+    F -->|Falso Positivo| F2[🗑️ Destruição Ativa - TTL 48h]
+    
+    E1 & E2 & E3 --> G[🌑 GHOST PROTOCOL: SOBERANIA]
+    
+    %% Estilização
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:4px
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-```
 
----
-
-## ðŸ” PolÃ­tica de Privacidade & Conformidade LGPD
-
-> Esta seÃ§Ã£o Ã© parte integral do projeto e nÃ£o um anexo opcional. A privacidade do usuÃ¡rio Ã© tratada como requisito arquitetural, nÃ£o como funcionalidade adicional.
-
-O AEGIS Ã© construÃ­do sobre os seis pilares do **Privacy by Design**, em conformidade rigorosa com a **Lei Geral de ProteÃ§Ã£o de Dados (LGPD â€” Lei nÂº 13.709/2018)** e criptografia end-to-end em todos os dados em trÃ¢nsito.
-
-### ðŸ“‹ Base Legal para Tratamento de Dados (LGPD Art. 7Âº)
-
-O AEGIS opera exclusivamente sob a base legal do **consentimento livre, informado, inequÃ­voco e revogÃ¡vel** (LGPD Art. 7Âº, Inciso I).
-
-* âœ… Nenhum sensor, cÃ¢mera ou dado Ã© acessado antes da autorizaÃ§Ã£o explÃ­cita da usuÃ¡ria
-* âœ… O consentimento Ã© concedido por aÃ§Ã£o positiva e intencional â€” nunca por omissÃ£o ou prÃ©-marcaÃ§Ã£o
-* âœ… A revogaÃ§Ã£o pode ser feita a qualquer momento com efeito imediato
-* âœ… A revogaÃ§Ã£o aciona automaticamente a destruiÃ§Ã£o imediata de todos os dados coletados
-* âœ… Nenhuma funcionalidade Ã© condicionada Ã  manutenÃ§Ã£o do consentimento
-
-### ðŸ“¦ Mapa de Dados por MÃ³dulo
-
-| MÃ³dulo | Tipo de Dado | RetenÃ§Ã£o | Destino Final |
+🔐 Política de Privacidade & Conformidade LGPD
+> Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.
+> 
+O AEGIS é construído sobre os seis pilares do Privacy by Design, em conformidade rigorosa com a Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018) e criptografia end-to-end em todos os dados em trânsito.
+📋 Base Legal para Tratamento de Dados (LGPD Art. 7º)
+O AEGIS opera exclusivamente sob a base legal do consentimento livre, informado, inequívoco e revogável (LGPD Art. 7º, Inciso I).
+ * ✅ Nenhum sensor, câmera ou dado é acessado antes da autorização explícita da usuária.
+ * ✅ O consentimento é concedido por ação positiva e intencional — nunca por omissão ou pré-marcação.
+ * ✅ A revogação pode ser feita a qualquer momento com efeito imediato.
+ * ✅ A revogação aciona automaticamente a destruição imediata de todos os dados coletados.
+ * ✅ Nenhuma funcionalidade é condicionada à manutenção do consentimento.
+📦 Mapa de Dados por Módulo
+| Módulo | Tipo de Dado | Retenção | Destino Final |
 |---|---|---|---|
-| **Sentinela Local** | Pose / CinemÃ¡tica | Tempo Real | Descarte Imediato |
-| **Radar OSINT** | Metadados PÃºblicos | Permanente | Banco de Grafos Neo4j |
-| **Cofre Forense** | EvidÃªncias de Crime | ExceÃ§Ã£o | PartiÃ§Ã£o Criptografada Local |
-| **Rotina Normal** | Logs de Telemetria | 48 Horas | DestruiÃ§Ã£o Ativa (TTL) |
+| Sentinela Local | Pose / Cinemática | Tempo Real | Descarte Imediato |
+| Radar OSINT | Metadados Públicos | Permanente | Banco de Grafos Neo4j |
+| Cofre Forense | Evidências de Crime | Exceção | Partição Criptografada Local |
+| Rotina Normal | Logs de Telemetria | 48 Horas | Destruição Ativa (TTL) |
+⌛ Protocolo de Destruição Automática vs. Cofre Forense
+ [Dado gerado por suspeita de evento]
+          │
+          ▼
+ Gravado com TTL (Time To Live) = 48h
+          │
+ [Houve confirmação de agressão / Acionamento do 190?]
+          │
+          ├─── SIM ───> Exceção Forense: dados movidos para Cofre
+          │             criptografado localmente no dispositivo da vítima.
+          │             Evidência preservada exclusivamente para uso policial.
+          │
+          └─── NÃO ───> Falso Positivo: Job automatizado executa 
+                        deleção segura em 48 horas.
+          │
+          ▼
+ Log criptográfico de destruição gerado (prova de compliance — LGPD Art. 16)
 
-### â±ï¸ Protocolo de DestruiÃ§Ã£o AutomÃ¡tica vs. Cofre Forense
-
-```
-[Dado gerado por suspeita de evento]
-         â”‚
-         â–¼
-  Gravado com TTL (Time To Live) = 48h
-         â”‚
-[Houve confirmaÃ§Ã£o de agressÃ£o / Acionamento do 190?]
-         â”‚
-  â”œâ”€â”€ SIM â”€â”€> ExceÃ§Ã£o Forense: dados movidos para Cofre
-  â”‚           criptografado localmente no dispositivo da vÃ­tima.
-  â”‚           EvidÃªncia preservada exclusivamente para uso policial.
-  â”‚
-  â””â”€â”€ NÃƒO â”€â”€> Falso Positivo: Job automatizado executa
-              deleÃ§Ã£o segura em 48 horas.
-         â”‚
-         â–¼
-  Log criptogrÃ¡fico de destruiÃ§Ã£o gerado
-  (prova de compliance â€” LGPD Art. 16)
-```
-
-> âš ï¸ **O AEGIS nÃ£o coleta:** nome completo, CPF, dados bancÃ¡rios, histÃ³rico de navegaÃ§Ã£o, conteÃºdo de mensagens, fotos pessoais ou qualquer dado nÃ£o listado acima.
-
----
-
-## ðŸ“Œ Status Operacional
-
-* **Modelo:** Framework de CÃ³digo Aberto â€” Uso mediante conformidade contratual e LGPD
-* **Fase:** Desenvolvimento Ativo â€” IntegraÃ§Ã£o KADMON Core v2.6
-* **LicenÃ§a:** Ghost Proprietary â€” Uso restrito a engajamentos formalizados
-
----
-
+> ⚠️ O AEGIS não coleta: nome completo, CPF, dados bancários, histórico de navegação, conteúdo de mensagens, fotos pessoais ou qualquer dado não listado acima.
+> 
+📌 Status Operacional
+ * Modelo: Framework de Código Aberto — Uso mediante conformidade contratual e LGPD.
+ * Fase: Desenvolvimento Ativo — Integração KADMON Core v2.6.
+ * Licença: Ghost Proprietary — Uso restrito a engajamentos formalizados.
 <div align="center">
-
-Â© 2026 Ghost Security Systems. A tecnologia Ã© a nossa linha de frente, a igualdade absoluta Ã© a nossa Ãºnica regra.
-
+© 2026 Ghost Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.
 </div>
+
+

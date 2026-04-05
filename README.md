@@ -53,48 +53,47 @@ O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de com
 
 ## 🏗️ Diagrama de Fluxo Operacional (Deep Architecture)
 
+
+---
+
+## ðŸ—ï¸ Diagrama de Fluxo Operacional (Deep Architecture)
+
 ```mermaid
 graph TD
-    %% Entrada
-    A["📡 INGESTÃO DE DADOS GLOBAIS"] -->|OSINT / Telemetria| B("🧠 MOTOR NEO4J: CORRELAÇÃO DE GRAFOS")
-    
-    %% Camadas
-    B --> C{DIVISÃO TÁTICA}
-    
+    A[ðŸ“¡ INGESTÃƒO DE DADOS GLOBAIS] -->|OSINT / Telemetria| B(ðŸ§  MOTOR NEO4J: CORRELAÃ‡ÃƒO DE GRAFOS)
+    B --> C{DIVISÃƒO TÃTICA}
+
     subgraph "CAMADA 1: ESCUDO SOCIAL"
-    C --> C1["🛡️ Prevenção Violência/Feminicídio"]
-    C --> C2["⚖️ Neutralização de Falsas Acusações"]
-    C --> C3["🚨 Rastreio de Ódio/Exploração"]
+    C --> C1[ðŸ›¡ï¸ PrevenÃ§Ã£o ViolÃªncia/FeminicÃ­dio]
+    C --> C2[âš–ï¸ NeutralizaÃ§Ã£o de Falsas AcusaÃ§Ãµes]
+    C --> C3[ðŸš¨ Rastreio de Ã“dio/ExploraÃ§Ã£o]
     end
-    
+
     subgraph "CAMADA 2: DEFESA DE ESTADO"
-    C --> D1["📡 Interceptação de APTs/Cyberweapons"]
-    C --> D2["🏛️ Auditoria Anti-Corrupção Sistêmica"]
-    C --> D3["🔌 Proteção de Infraestrutura Crítica"]
+    C --> D1[ðŸ“¡ InterceptaÃ§Ã£o de APTs/Cyberweapons]
+    C --> D2[ðŸ›ï¸ Auditoria Anti-CorrupÃ§Ã£o SistÃªmica]
+    C --> D3[ðŸ”Œ ProteÃ§Ã£o de Infraestrutura CrÃ­tica]
     end
-    
+
     subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
-    C --> E1["🔥 Síntese & Execução"]
-    C --> E2["🧩 Fragmentação de Redes Ocultas"]
-    C --> E3["🔐 Gestão de Memória Bunker"]
+    C --> E1[ðŸ”¥ SÃ­ntese & ExecuÃ§Ã£o]
+    C --> E2[ðŸ§© FragmentaÃ§Ã£o de Redes Ocultas]
+    C --> E3[ðŸ” GestÃ£o de MemÃ³ria Bunker]
     end
-    
-    %% Saída e Forense
-    C1 & C2 & C3 & D1 & D2 & D3 --> F["🗳️ COFRE FORENSE"]
-    F -->|"Confirmação de Crime"| F1["📂 Preservação de Evidência Local"]
-    F -->|"Falso Positivo"| F2["🗑️ Destruição Ativa - TTL 48h"]
-    
-    E1 & E2 & E3 --> G["🌑 GHOST PROTOCOL: SOBERANIA"]
-    
-    %% Estilização
+
+    C1 & C2 & C3 & D1 & D2 & D3 --> F[ðŸ—³ï¸ COFRE FORENSE]
+    F -->|ConfirmaÃ§Ã£o de Crime| F1[ðŸ“‚ PreservaÃ§Ã£o de EvidÃªncia Local]
+    F -->|Falso Positivo| F2[ðŸ—‘ï¸ DestruiÃ§Ã£o Ativa - TTL 48h]
+
+    E1 & E2 & E3 --> G[ðŸŒ‘ GHOST PROTOCOL: SOBERANIA]
+
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#bbf,stroke:#333,stroke-width:4px
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+```
 
-
-
-
+---
 🔐 Política de Privacidade & Conformidade LGPD
 > Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.
 > 

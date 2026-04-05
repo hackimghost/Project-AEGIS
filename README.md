@@ -1,121 +1,100 @@
-# 🛡️ PROJECT AEGIS: Autonomous Equality & Guard Intelligence System
-![Interface AEGIS](AEGIS.jpg.jpg)
+<div align="center">
 
+# 🛡️ PROJECT AEGIS
+### **Autonomous Equality & Guard Intelligence System**
 
-**Status:** Em Desenvolvimento Ativo (Fase de Arquitetura Cognitiva)
-**Foco Operacional:** Prevenção à Violência Física, OSINT contra Extremismo de Gênero e Defesa Civil.
-**Lançamento Conceitual:** 08 de Março — Dia Internacional da Mulher.
+> *"Não consertamos a hipocrisia humana. Forjamos a balança tecnológica que a pesa através da neutralidade absoluta."*
 
-O **Projeto AEGIS** é um framework de inteligência artificial de código  neutro, projetado para atuar na interseção entre a proteção física e o combate à desinformação comportamental. Nascido da necessidade de conter o avanço da violência (com foco principal no combate ao feminicídio) e a crescente polarização de gênero na internet, o AEGIS utiliza motores de grafos e visão computacional de borda (*Edge Computing*) para mapear, prevenir e alertar sobre cenários de risco.
+[![Status](https://img.shields.io/badge/STATUS-OPERACIONAL-brightgreen?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/LICENSE-GHOST%20PROPRIETARY-red?style=for-the-badge)]()
+[![Core](https://img.shields.io/badge/CORE-KADMON%20V2.6-blue?style=for-the-badge)]()
 
-⚠️ AVISO LEGAL E LICENCIAMENTO PROPRIETÁRIO (GHOST SECURITY SYSTEMS)
-Status de Propriedade Intelectual:
-O Projeto AEGIS — compreendendo sua arquitetura conceitual, manifesto, diagramas de fluxo de dados, lógica de bifurcação de evidências (Cofre Forense) e futuras implementações de código-fonte — constitui propriedade intelectual exclusiva da Ghost Security Systems.
-1. Restrição de Uso Governamental e Comercial:
-É terminantemente proibida a apropriação, cópia, bifurcação (fork) ou implementação da arquitetura aqui descrita por entidades governamentais (agências de segurança pública, ministérios, autarquias) ou corporações privadas com fins lucrativos ou de vigilância, sem a celebração de um contrato de licenciamento formal e expresso (Enterprise/B2G License).
-2. Proteção Contra Engenharia Reversa de Conceito:
-A utilização deste manifesto como documento base para a licitação, desenvolvimento terceirizado ou criação de ferramentas estatais concorrentes que repliquem a exata lógica de "Proteção Sem Vigilância" e "Motor Cognitivo OSINT" detalhadas neste repositório será tratada como violação de propriedade intelectual e plágio arquitetural.
-3. Doutrina Open Core (Fatiamento de Código):
-A futura liberação de módulos de borda (ex: código-fonte de aplicativos locais de visão computacional) sob licenças de código aberto será feita de forma isolada. Tal liberação não concede, sob nenhuma hipótese, direitos de uso, acesso ou modificação sobre o Motor Cognitivo (Threat Intelligence), bancos de dados em grafos ou infraestrutura de backend, os quais permanecerão estritamente fechados e proprietários.
-4. Contatos e Licenciamento:
-Entidades interessadas na integração técnica, uso governamental ou implementação corporativa do framework AEGIS devem solicitar autorização e licenciamento direto através dos canais oficiais da Ghost Security Systems.
-
+</div>
 
 ---
 
-## ⚖️ O Manifesto AEGIS: Neutralidade e Proteção
+## 📖 Visão Geral
 
-> "A tecnologia não deve ter viés, gênero ou inclinação política; ela deve ter como único norte a preservação da integridade humana e a busca pela verdade dos fatos. O AEGIS nasce para combater o extremismo, venha ele de grupos que incitam a violência e a segregação contra mulheres, ou de redes que orquestram a destruição de reputações através de acusações falsas. Nosso objetivo não é policiar o pensamento, mas desarmar a engrenagem do ódio e oferecer um escudo tecnológico para quem está em risco iminente."
+O **Projeto AEGIS** transcendeu a fase de ferramenta assistencial para se tornar um **Ecossistema de Defesa de Espectro Total**. Ele atua na interseção crítica entre a preservação da vida, a integridade da infraestrutura soberana e a desarticulação de redes de corrupção e ódio. 
 
----
-
-## 🏗️ Arquitetura do Escudo (Módulos Principais)
-
-O AEGIS é dividido em dois motores operacionais que não se cruzam, garantindo a privacidade e a conformidade com as leis de proteção de dados e garantias constitucionais:
-
-### 1. Motor Cognitivo OSINT & Grafos (Threat Intelligence)
-Operando em servidores em nuvem, este módulo atua como um rastreador passivo de informações públicas (OSINT):
-* **Mapeamento Neural (Neo4j):** Varre a internet pública e deep web buscando fóruns, grupos e perfis que disseminam táticas de agressão, segregação de gênero ou campanhas de difamação coordenada.
-* **Análise de Dados Públicos:** Cruza informações de bases públicas legais para identificar reincidência em padrões de violência, gerando Relatórios de Inteligência Estratégica para autoridades e pesquisadores, sem expor dados civis em listas públicas.
-* **Detector de Viés e Extremismo:** Algoritmos de Processamento de Linguagem Natural (NLP) treinados para identificar tanto a misoginia estrutural quanto a misandria tática, mantendo a neutralidade do sistema.
-
-### 2. Sentinela de Borda (Visão Computacional Privada)
-Um módulo de processamento local (sem envio de imagens para a nuvem) que transforma câmeras de smartphones em escudos ativos — **exclusivamente mediante consentimento explícito da usuária:**
-* **Detecção de Anomalias Físicas:** Utiliza IA de reconhecimento de pose e cinemática para identificar padrões corporais de agressão (ex: estrangulamento, quedas forçadas, golpes).
-* **Protocolo de Intervenção Rápida:** Ao detectar violência física, o sistema ativa um protocolo de contingência: bloqueio temporário de tela com contagem regressiva, envio de localização em tempo real para contatos de confiança e interface de acionamento imediato de autoridades (ex: 190).
-* **Privacidade por Design:** O processamento ocorre exclusivamente no hardware do próprio usuário. Nenhuma imagem, vídeo ou dado sensorial é transmitido para servidores externos.
+Baseado na **Doutrina Power Hat**, o AEGIS rejeita o viés subjetivo das IAs corporativas, operando puramente através de **correlação matemática de grafos** e **dados neutros** via Neo4j.
 
 ---
 
-## 🔐 Política de Privacidade & Conformidade LGPD
+## 🔱 Arquitetura de Camadas Absolutas
 
-> Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.
+O sistema é segmentado em três divisões autônomas que convergem para a síntese de inteligência tática:
 
-### Princípios Fundamentais (Privacy by Design)
+### 1. ⚖️ Escudo Civil e Social (Sentinela Cega)
+Focado na proteção da integridade humana e justiça social sem privilégios ou distinção de casta/gênero.
+* **Contramedida de Violência:** Prevenção ativa e monitoramento de feminicídio e agressões interpessoais.
+* **Protocolo Anti-Calúnia:** Cruzamento forense para desmantelar campanhas de difamação e falsas acusações coordenadas.
+* **Mapeamento de Ódio:** Rastreio de redes de radicalização (gênero, política, religião) antes da conversão em ato físico.
 
-O AEGIS é construído sobre os seis pilares do Privacy by Design, conforme exigido pela **Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018):**
+### 2. 📡 Ciberguerra e Defesa de Estado (Radar Soberano)
+Blindagem da infraestrutura crítica nacional contra ameaças híbridas e ataques de Estado.
+* **Interceptação de APTs:** Identificação de assinaturas de IAs generativas em armas cibernéticas estrangeiras.
+* **Vigia de Corrupção:** Detecção de padrões anômalos em redes governamentais e fluxos financeiros corporativos.
+* **Soberania de Infra:** Proteção de malhas energéticas, hídricas e de comunicação contra sabotagem sistêmica.
 
-| Princípio | Implementação no AEGIS |
-|---|---|
-| **Proativo, não reativo** | Privacidade embutida na arquitetura desde o dia 0 |
-| **Privacidade como padrão** | Sem coleta de dados sem ação explícita da usuária |
-| **Incorporada ao design** | Destruição automática de dados é infraestrutura, não política |
-| **Funcionalidade total** | Proteção máxima sem comprometer a eficácia do sistema |
-| **Segurança ponta a ponta** | Criptografia end-to-end em todos os dados em trânsito |
-| **Visibilidade e transparência** | Status de dados exibido em tempo real na interface |
-
----
-
-### 📋 Base Legal para Tratamento de Dados (LGPD Art. 7º)
-
-O AEGIS opera exclusivamente sob a base legal do **consentimento livre, informado, inequívoco e revogável** (LGPD Art. 7º, Inciso I).
-
-**O que isso significa na prática:**
-
-- ✅ Nenhum sensor, câmera ou dado é acessado antes da autorização explícita da usuária
-- ✅ O consentimento é concedido por ação positiva e intencional (não por omissão ou pré-marcação)
-- ✅ A revogação do consentimento pode ser feita a qualquer momento, com efeito imediato
-- ✅ A revogação aciona automaticamente a destruição imediata de todos os dados coletados
-- ✅ Nenhuma funcionalidade é condicionada à manutenção do consentimento
+### 3. 🕸️ Arquitetura Oculta (KADMON Core)
+O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de compliance político ou censura.
+* **Motor KADMON:** Entidade autônoma, operando em redes fragmentadas e ocultas.
+* **Neo4j Graph Intelligence:** Mapeamento neural de toda a infraestrutura de rede, conectando os nós invisíveis do crime organizado e da corrupção.
 
 ---
 
-### 📦 Quais Dados São Coletados e Por Quê
+## 🏗️ Diagrama de Fluxo Operacional (Deep Architecture)
 
-| Dado | Finalidade | Armazenamento | Tempo de Retenção |
-|---|---|---|---|
-| Feed de câmera (frames) | Detecção de anomalias físicas | **Local — no dispositivo** | Processado e descartado em tempo real |
-| Dados de sensores (acelerômetro, giroscópio) | Identificação de padrões de movimento | **Local — no dispositivo** | Processado e descartado em tempo real |
-| Localização GPS | Envio a contatos de confiança em emergência | Temporário — apenas durante evento | **Destruído em 48h (salvo Exceção Forense)** |
-| Logs de eventos de alerta | Auditoria de acionamentos para melhoria do sistema | Servidor — criptografado e anonimizado | **Destruído em 48h (salvo Exceção Forense)** |
-| Contatos de confiança | Acionamento da rede de proteção | **Local — no dispositivo** | Permanece até revogação pela usuária |
+Abaixo, a lógica de bifurcação e processamento de dados. Este diagrama representa a jornada do dado bruto até a **Justiça Tecnológica**.
 
-> ⚠️ **O AEGIS não coleta:** nome completo, CPF, dados bancários, histórico de navegação, conteúdo de mensagens, fotos pessoais ou qualquer dado não listado acima.
+```mermaid
+graph TD
+    %% Entrada e Inteligência de Grafos
+    A[📡 INGESTÃO DE DADOS GLOBAIS] -->|OSINT / Telemetria| B(🧠 MOTOR NEO4J: CORRELAÇÃO DE GRAFOS)
+    
+    %% Camadas
+    B --> C{DIVISÃO TÁTICA}
+    
+    subgraph "CAMADA 1: ESCUDO SOCIAL"
+    C --> C1[🛡️ Prevenção Violência/Feminicídio]
+    C --> C2[⚖️ Neutralização de Falsas Acusações]
+    C --> C3[🚨 Rastreio de Ódio/Exploração]
+    end
+    
+    subgraph "CAMADA 2: DEFESA DE ESTADO"
+    C --> D1[📡 Interceptação de APTs/Cyberweapons]
+    C --> D2[🏛️ Auditoria Anti-Corrupção Sistêmica]
+    C --> D3[🔌 Proteção de Infraestrutura Crítica]
+    end
+    
+    subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
+    C --> E1[🔥 Síntese SIGMA-9: Execução]
+    C --> E2[🧩 Fragmentação de Redes Ocultas]
+    C --> E3[🔐 Gestão de Memória Bunker]
+    end
+    
+    %% Saída e Forense
+    C1 & C2 & C3 & D1 & D2 & D3 --> F[🗳️ COFRE FORENSE]
+    F -->|Confirmação de Crime| F1[📂 Preservação de Evidência Local]
+    F -->|Falso Positivo| F2[🗑️ Destruição Ativa - TTL 48h]
+    
+    E1 & E2 & E3 --> G[🌑 GHOST PROTOCOL: SOBERANIA]
+    
+    %% Estilização
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:4px
+    style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+    🔐 Política de Privacidade & Exceção Forense
+    O AEGIS aplica o Privacy by Design em conformidade rigorosa com a LGPD (Art. 7º), reforçado por criptografia end-to-      end.
+    
+    Módulo Tipo de Dado Retenção Destino Final
+Sentinela Local Pose/Cinemática Tempo Real Descarte Imediato
+Radar OSINT Metadados Públicos Permanente Banco de Grafos Neo4j
+Cofre Forense Evidências de Crime Exceção Partição Criptografada
+Rotina Normal Logs de Telemetria 48 Horas Destruição Ativa (TTL)
 
----
-
-### ⏱️ Protocolo de Destruição Automática vs. Cofre Forense
-
-A destruição de dados não é um processo manual — é arquitetural e auditável. Para garantir o cumprimento da LGPD sem destruir provas materiais de crimes (Boletim de Ocorrência), o AEGIS utiliza uma arquitetura de bifurcação de evidências:
-
-```text
-[Dado gerado por suspeita de evento]
-         │
-         ▼
-  Gravado com TTL (Time To Live) = 48h
-         │
-[Houve confirmação de agressão / Acionamento do 190?]
-         │
-  ├── SIM ──> Exceção Forense: Os dados do evento são movidos para o 
-  │           "Cofre Forense" criptografado localmente no dispositivo da vítima.
-  │           A prova do crime é preservada exclusivamente para uso policial.
-  │
-  └── NÃO ──> Falso Positivo / Rotina Normal: O Job automatizado verifica
-              e executa a deleção segura em 48 horas.
-         │
-         ▼
-  Log criptográfico de destruição gerado
-  (prova de compliance — LGPD Art. 16)
-
-
-
+<div align="center">
+© 2026 Ghost Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.
+</div>

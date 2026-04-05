@@ -140,7 +140,7 @@ O AEGIS opera exclusivamente sob a base legal do consentimento livre, informado,
 > 
 📌 Status Operacional
  * Modelo: Framework de Código Aberto — Uso mediante conformidade contratual e LGPD.
- * Fase: Desenvolvimento Ativo — Integração KADMON Core v2.6.
+ * Fase: Desenvolvimento Ativo — Integração KADMON 
  * Licença: Ghost Proprietary — Uso restrito a engajamentos formalizados.
 <div align="center">
 © 2026 Ghost Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.

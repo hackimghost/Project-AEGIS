@@ -46,8 +46,6 @@ O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de com
 
 ## 🏗️ Diagrama de Fluxo Operacional (Deep Architecture)
 
-Abaixo, a lógica de bifurcação e processamento de dados. Este diagrama representa a jornada do dado bruto até a **Justiça Tecnológica**.
-
 ```mermaid
 graph TD
     %% Entrada e Inteligência de Grafos
@@ -69,7 +67,7 @@ graph TD
     end
     
     subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
-    C --> E1[🔥 Síntese SIGMA-9: Execução]
+    C --> E1[🔥 Síntese & Execução]
     C --> E2[🧩 Fragmentação de Redes Ocultas]
     C --> E3[🔐 Gestão de Memória Bunker]
     end
@@ -86,15 +84,14 @@ graph TD
     style B fill:#bbf,stroke:#333,stroke-width:4px
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    🔐 Política de Privacidade & Exceção Forense
-    O AEGIS aplica o Privacy by Design em conformidade rigorosa com a LGPD (Art. 7º), reforçado por criptografia end-to-      end.
-    
-    Módulo Tipo de Dado Retenção Destino Final
-Sentinela Local Pose/Cinemática Tempo Real Descarte Imediato
+🔐 Política de Privacidade & Exceção Forense
+O AEGIS aplica o Privacy by Design em conformidade rigorosa com a LGPD (Art. 7º), reforçado por criptografia end-to-end.
+
+Módulo Tipo de Dado Retenção Destino Final
+Sentinela Local Pose / Cinemática Tempo Real Descarte Imediato
 Radar OSINT Metadados Públicos Permanente Banco de Grafos Neo4j
 Cofre Forense Evidências de Crime Exceção Partição Criptografada
 Rotina Normal Logs de Telemetria 48 Horas Destruição Ativa (TTL)
-
 <div align="center">
 © 2026 Ghost Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.
 </div>

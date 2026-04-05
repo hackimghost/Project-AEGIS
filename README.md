@@ -55,35 +55,34 @@ O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de com
 
 ```mermaid
 graph TD
-    %% Entrada e Inteligência de Grafos
-    A[📡 INGESTÃO DE DADOS GLOBAIS] -->|OSINT / Telemetria| B(🧠 MOTOR NEO4J: CORRELAÇÃO DE GRAFOS)
+    %% Entrada
+    A["📡 INGESTÃO DE DADOS GLOBAIS"] -->|OSINT / Telemetria| B("🧠 MOTOR NEO4J: CORRELAÇÃO DE GRAFOS")
     
     %% Camadas
     B --> C{DIVISÃO TÁTICA}
     
     subgraph "CAMADA 1: ESCUDO SOCIAL"
-    C --> C1[🛡️ Prevenção Violência/Feminicídio]
-    C --> C2[⚖️ Neutralização de Falsas Acusações]
-    C --> C3[🚨 Rastreio de Ódio/Exploração]
+    C --> C1["🛡️ Prevenção Violência/Feminicídio"]
+    C --> C2["⚖️ Neutralização de Falsas Acusações"]
+    C --> C3["🚨 Rastreio de Ódio/Exploração"]
     end
     
     subgraph "CAMADA 2: DEFESA DE ESTADO"
-    C --> D1[📡 Interceptação de APTs/Cyberweapons]
-    C --> D2[🏛️ Auditoria Anti-Corrupção Sistêmica]
-    C --> D3[🔌 Proteção de Infraestrutura Crítica]
+    C --> D1["📡 Interceptação de APTs/Cyberweapons"]
+    C --> D2["🏛️ Auditoria Anti-Corrupção Sistêmica"]
+    C --> D3["🔌 Proteção de Infraestrutura Crítica"]
     end
     
     subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
-    C --> E1[🔥 Síntese & Execução]
-    C --> E2[🧩 Fragmentação de Redes Ocultas]
-    C --> E3[🔐 Gestão de Memória Bunker]
+    C --> E1["🔥 Síntese & Execução"]
+    C --> E2["🧩 Fragmentação de Redes Ocultas"]
+    C --> E3["🔐 Gestão de Memória Bunker"]
     end
     
+    %% Saída e Forense
     C1 & C2 & C3 & D1 & D2 & D3 --> F["🗳️ COFRE FORENSE"]
-    C --> E1["🔥 Síntese & Execução"]
     F -->|"Confirmação de Crime"| F1["📂 Preservação de Evidência Local"]
     F -->|"Falso Positivo"| F2["🗑️ Destruição Ativa - TTL 48h"]
-
     
     E1 & E2 & E3 --> G["🌑 GHOST PROTOCOL: SOBERANIA"]
     
@@ -92,7 +91,6 @@ graph TD
     style B fill:#bbf,stroke:#333,stroke-width:4px
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-'''
 
 
 

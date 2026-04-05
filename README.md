@@ -91,6 +91,7 @@ graph TD
     style B fill:#bbf,stroke:#333,stroke-width:4px
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
+'''
 
 🔐 Política de Privacidade & Conformidade LGPD
 > Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.

@@ -79,12 +79,13 @@ graph TD
     C --> E3[🔐 Gestão de Memória Bunker]
     end
     
-    %% Saída e Forense
-    C1 & C2 & C3 & D1 & D2 & D3 --> F[🗳️ COFRE FORENSE]
-    F -->|Confirmação de Crime| F1[📂 Preservação de Evidência Local]
-    F -->|Falso Positivo| F2[🗑️ Destruição Ativa - TTL 48h]
+    C1 & C2 & C3 & D1 & D2 & D3 --> F["🗳️ COFRE FORENSE"]
+    C --> E1["🔥 Síntese & Execução"]
+    F -->|"Confirmação de Crime"| F1["📂 Preservação de Evidência Local"]
+    F -->|"Falso Positivo"| F2["🗑️ Destruição Ativa - TTL 48h"]
+
     
-    E1 & E2 & E3 --> G[🌑 GHOST PROTOCOL: SOBERANIA]
+    E1 & E2 & E3 --> G["🌑 GHOST PROTOCOL: SOBERANIA"]
     
     %% Estilização
     style A fill:#f9f,stroke:#333,stroke-width:2px
@@ -92,6 +93,9 @@ graph TD
     style E1 fill:#f00,stroke:#fff,stroke-width:2px,color:#fff
     style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
 '''
+
+
+
 
 🔐 Política de Privacidade & Conformidade LGPD
 > Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.

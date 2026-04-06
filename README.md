@@ -139,7 +139,7 @@ O AEGIS opera exclusivamente sob a base legal do consentimento livre, informado,
 > ⚠️ O AEGIS não coleta: nome completo, CPF, dados bancários, histórico de navegação, conteúdo de mensagens, fotos pessoais ou qualquer dado não listado acima.
 > 
 📌 Status Operacional
- * Modelo: Framework de Código Aberto — Uso mediante conformidade contratual e LGPD.
+ * Modelo: Framework de Código Restrito — Uso mediante conformidade contratual e LGPD.
  * Fase: Desenvolvimento Ativo — Integração KADMON 
  * Licença: Ghost Proprietary — Uso restrito a engajamentos formalizados.
 <div align="center">

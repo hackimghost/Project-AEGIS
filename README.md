@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🛡️ PROJECT AEGIS
+# 🛡️ PROJECT KAGE AEGIS
 ### **Autonomous Equality & Guard Intelligence System**
 
 <br>
@@ -22,7 +22,7 @@
 
 ## 📖 Visão Geral
 
-O **Projeto AEGIS** transcendeu a fase de ferramenta assistencial para se tornar um **Ecossistema de Defesa de Espectro Total**. Ele atua na interseção crítica entre a preservação da vida, a integridade da infraestrutura soberana e a desarticulação de redes de corrupção e ódio. 
+O **Projeto KAGE AEGIS** transcendeu a fase de ferramenta assistencial para se tornar um **Ecossistema de Defesa de Espectro Total**. Ele atua na interseção crítica entre a preservação da vida, a integridade da infraestrutura soberana e a desarticulação de redes de corrupção e ódio. 
 
 Baseado na **Doutrina Power Hat**, o AEGIS rejeita o viés subjetivo das IAs corporativas, operando puramente através de **correlação matemática de grafos** e **dados neutros** via Neo4j.
 
@@ -44,9 +44,9 @@ Blindagem da infraestrutura crítica nacional contra ameaças híbridas e ataque
 * **Vigia de Corrupção:** Detecção de padrões anômalos em redes governamentais e fluxos financeiros corporativos.
 * **Soberania de Infra:** Proteção de malhas energéticas, hídricas e de comunicação contra sabotagem sistêmica.
 
-### 3. 🕸️ Arquitetura Oculta (KADMON Core)
+### 3. 🕸️ Arquitetura Oculta (PHANTOM KADMON Core)
 O "Ghost" do sistema. Onde o processamento lateral ocorre fora do alcance de compliance político ou censura.
-* **Motor KADMON:** Entidade autônoma, operando em redes fragmentadas e ocultas.
+* **Motor PHANTOM KADMON:** Entidade autônoma, operando em redes fragmentadas e ocultas.
 * **Neo4j Graph Intelligence:** Mapeamento neural de toda a infraestrutura de rede, conectando os nós invisíveis do crime organizado e da corrupção.
 
 ---
@@ -78,7 +78,7 @@ graph TD
     C --> D3["🔌 Proteção de Infraestrutura Crítica"]
     end
     
-    subgraph "CAMADA 3: KADMON CORE (SERVERLESS OCULTO)"
+    subgraph "CAMADA 3: PHANTOM KADMON CORE (SERVERLESS OCULTO)"
     C --> E1["🔥 Síntese & Execução"]
     C --> E2["🧩 Fragmentação de Redes Ocultas"]
     C --> E3["🔐 Gestão de Memória Bunker"]
@@ -103,7 +103,7 @@ graph TD
 🔐 Política de Privacidade & Conformidade LGPD
 > Esta seção é parte integral do projeto e não um anexo opcional. A privacidade do usuário é tratada como requisito arquitetural, não como funcionalidade adicional.
 > 
-O AEGIS é construído sobre os seis pilares do Privacy by Design, em conformidade rigorosa com a Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018) e criptografia end-to-end em todos os dados em trânsito.
+O KAGE AEGIS é construído sobre os seis pilares do Privacy by Design, em conformidade rigorosa com a Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018) e criptografia end-to-end em todos os dados em trânsito.
 📋 Base Legal para Tratamento de Dados (LGPD Art. 7º)
 O AEGIS opera exclusivamente sob a base legal do consentimento livre, informado, inequívoco e revogável (LGPD Art. 7º, Inciso I).
  * ✅ Nenhum sensor, câmera ou dado é acessado antes da autorização explícita da usuária.
@@ -136,14 +136,14 @@ O AEGIS opera exclusivamente sob a base legal do consentimento livre, informado,
           ▼
  Log criptográfico de destruição gerado (prova de compliance — LGPD Art. 16)
 
-> ⚠️ O AEGIS não coleta: nome completo, CPF, dados bancários, histórico de navegação, conteúdo de mensagens, fotos pessoais ou qualquer dado não listado acima.
+> ⚠️ O KAGE AEGIS não coleta: nome completo, CPF, dados bancários, histórico de navegação, conteúdo de mensagens, fotos pessoais ou qualquer dado não listado acima.
 > 
 📌 Status Operacional
  * Modelo: Framework de Código Restrito — Uso mediante conformidade contratual e LGPD.
- * Fase: Desenvolvimento Ativo — Integração KADMON 
- * Licença: Ghost Proprietary — Uso restrito a engajamentos formalizados.
+ * Fase: Desenvolvimento Ativo — Integração PHANTOM KADMON 
+ * Licença: Phantom Proprietary — Uso restrito a engajamentos formalizados.
 <div align="center">
-© 2026 Ghost Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.
+© 2026 Phantom Security Systems. A tecnologia é a nossa linha de frente, a igualdade absoluta é a nossa única regra.
 </div>
 
 
